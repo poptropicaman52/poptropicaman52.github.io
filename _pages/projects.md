@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: archive
 header:
   image: "/assets/images/home_page.jpg"
 ---
