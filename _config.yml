@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlo Guzman"
-  avatar           : "/_images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/_images/rsz_profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Economics Graduate from University of California, Berkeley."
   location         : "San Fransisco, Ca"
   email            : "poptropicaman52@berkeley.edu"
@@ -300,4 +300,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
