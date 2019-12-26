@@ -8,3 +8,8 @@ header:
 ---
 
 A Cheerful list of all of my projects done in my Undergrad!
+
+[link](https://poptropicaman52.github.io/scheme_interpreter/)
+[link](https://poptropicaman52.github.io/hog/)
+[link](https://poptropicaman52.github.io/maps/)
+[link](https://poptropicaman52.github.io/ants/)
