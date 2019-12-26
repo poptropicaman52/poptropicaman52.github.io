@@ -9,7 +9,7 @@ header:
 
 *A list of my favorite Undergraduate projects along with some personal projects too!*
 
-<span style="text-decoration: underline"> ## Games </span>
+## Games
 
 + **Hog** - February, 2019
 [...Read more](https://poptropicaman52.github.io/hog/)
