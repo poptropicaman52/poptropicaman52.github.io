@@ -20,7 +20,7 @@ title                    : "Carlo Guzman"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Carlo Guzman"
-description              : "Resume and Portfolio"
+description              : "Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -124,13 +124,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/carlo.guzman.334"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/poptropicaman52"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
