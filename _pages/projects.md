@@ -23,3 +23,6 @@ A Cheerful list of all of my projects done in my Undergrad!
 
 ## Economics Research Paper
 [link](https://www.overleaf.com/read/rhfdrkgkzpzx)
+
+## Actuary Analysis in R
+[link](https://github.com/poptropicaman52/insurance-claims-analysis)
