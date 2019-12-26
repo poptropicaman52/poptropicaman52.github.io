@@ -9,7 +9,7 @@ header:
 
 *A list of my favorite Undergraduate projects along with some personal projects too!*
 
-__## Games__
+__##Games##__
 
 + **Ants** - April, 2019 <br/>
 A knockoff of the classic mobilie game, Plants vs Zombies[...Read More](https://poptropicaman52.github.io/ants/)
