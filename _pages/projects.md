@@ -11,10 +11,10 @@ header:
 
 __## Games__
 
-**Ants** - April, 2019 <br/>
++ **Ants** - April, 2019 <br/>
 A knockoff of the classic mobilie game, Plants vs Zombies[...Read More](https://poptropicaman52.github.io/ants/)
 
-**Hog** - February, 2019
++ **Hog** - February, 2019
 [...Read more](https://poptropicaman52.github.io/hog/)
 
 __## Data Analysis__
