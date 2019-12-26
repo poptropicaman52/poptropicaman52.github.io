@@ -1,28 +1,40 @@
 ---
 layout: archive
-title: "Projects Sorted by Year"
+title: "Projects by Category"
 permalink: /projects/
 author_profile: true
 header:
   image: "/assets/images/home_page.jpg"
 ---
 
-A Cheerful list of all of my projects done in my Undergrad!
+*A list of my favorite Undergraduate projects along with some personal projects too!*
 
-## Scheme_Interpreter
-[link](https://poptropicaman52.github.io/scheme_interpreter/)
+## Games
 
-## Hog
-[link](https://poptropicaman52.github.io/hog/)
+**Ants** - April, 2019
+A knockoff of the classic mobilie game, Plants vs Zombies.[...Read more](https://poptropicaman52.github.io/ants/)
 
-## Maps
-[link](https://poptropicaman52.github.io/maps/)
+**Hog** - February, 2019
+[...Read more](https://poptropicaman52.github.io/hog/)
 
-## Ants
-[link](https://poptropicaman52.github.io/ants/)
+## Data Analysis
 
-## Economics Research Paper
-[link](https://www.overleaf.com/read/rhfdrkgkzpzx)
+**Validating Economic Factors** - December, 2019
+[...Read more](https://www.overleaf.com/read/rhfdrkgkzpzx)
 
-## Actuary Analysis in R
-[link](https://github.com/poptropicaman52/insurance-claims-analysis)
+**Actuary Analysis in R** - November, 2019
+[...Read more](https://poptropicaman52.github.io/claims/)
+
+## Chrome Extensions
+
+...in progress...
+
+## Other
+
+**Scheme Interpreter** - May, 2019
+Quite possible one of the hardest projects I had to do, came with starter code including generator...
+[Read more...](https://poptropicaman52.github.io/scheme_interpreter/)
+
+**Maps** - March, 2019
+[...Read more](https://poptropicaman52.github.io/maps/)
+
