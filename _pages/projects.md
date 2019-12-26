@@ -9,15 +9,15 @@ header:
 
 *A list of my favorite Undergraduate projects along with some personal projects too!*
 
-## Games
+__## Games__
 
-**Ants** - April, 2019
-A knockoff of the classic mobilie game, Plants vs Zombies.[...Read more](https://poptropicaman52.github.io/ants/)
+**Ants** - April, 2019 <br/>
+A knockoff of the classic mobilie game, Plants vs Zombies[...Read More](https://poptropicaman52.github.io/ants/)
 
 **Hog** - February, 2019
 [...Read more](https://poptropicaman52.github.io/hog/)
 
-## Data Analysis
+__## Data Analysis__
 
 **Validating Economic Factors** - December, 2019
 [...Read more](https://www.overleaf.com/read/rhfdrkgkzpzx)
