@@ -1,10 +1,7 @@
 ---
 title: "Using Python to Make a Scheme Interpreter"
 date: 2019-05-01
-layout: archive
-permalink: /projects/
-header:
-  image: ""
+tags: [scheme, interpreter]
 excerpt: "Simplistic scheme interpreter"
 ---
 
