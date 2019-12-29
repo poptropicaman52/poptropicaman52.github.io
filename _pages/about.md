@@ -6,3 +6,5 @@ header:
 ---
 
 I'm a Economics Graduate from UC Berkeley with interests in data science, financial analysis, marketing, and operations management.
+
+<a href="/assets/images/home_page.jpg" download>Download link</a>
