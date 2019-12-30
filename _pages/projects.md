@@ -23,7 +23,7 @@ Inspired by the classic Plants vs. Zombies mobile game, choose from your arsenal
 Conducted multivariate analysis to create predictive analytics to more accurately price NorCal's Homeowners Insurace product. [Read more](https://poptropicaman52.github.io/claims/)
 
 + **Validating Economic Recessions through Multivariate Regression on SPX Closing Prices** - December, 2019 <br/>
-Conducted a multivariate regression to produce a model which efficiently predicts the SPX index prices over time using US economic factors. [Read More](https://www.overleaf.com/read/rhfdrkgkzpzx)
+Conducted a multivariate regression to produce a model which efficiently predicts the SPX index prices over time using US economic factors. Click [here](https://www.overleaf.com/read/rhfdrkgkzpzx) to read the report.
 
 ## Chrome Extensions
 
@@ -35,7 +35,7 @@ Conducted a multivariate regression to produce a model which efficiently predict
 Read the paper [here!](https://docs.google.com/document/d/1-dOdJpWXGejbuBSNQ2mpFDEA5GCPIqMh4Zcat1TfbwI/edit?usp=sharing_)
 
 + **From Conquerors to Conquered, The Fall of Tenochtitlan** - November, 2016 <br/>
-[Read the paper here!](https://docs.google.com/document/d/1J_Y41tUs3QMhDpYv9d-zX2c_SbkrVKhYp3ollVO-Itg/edit?usp=sharing)
+Read the paper [here!](https://docs.google.com/document/d/1J_Y41tUs3QMhDpYv9d-zX2c_SbkrVKhYp3ollVO-Itg/edit?usp=sharing)
 
 ## Other
 
