@@ -1,7 +1,7 @@
 ---
 title: "Using Python to Make a Scheme Interpreter"
 date: 2019-05-01
-excerpt: "Simplistic scheme interpreter"
+excerpt: "The hardest CS61A project I did, began with lots of starter code."
 ---
 
-[ongay](https://github.com/poptropicaman52/scheme_interpreter)
+Click [here](https://github.com/poptropicaman52/scheme_interpreter) to look at the game files!
