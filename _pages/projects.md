@@ -11,7 +11,7 @@ header:
 
 ## Games
 
-+ **Hog** - February, 2019
++ **Hog** - February, 2019 <br/>
 My very first python project, the dice game, Pig. [Read more](https://poptropicaman52.github.io/hog/)
 
 + **Ants vs. Some Bees** - April, 2019 <br/>
@@ -34,7 +34,7 @@ Conducted a multivariate regression to produce a model which efficiently predict
 + **Adderall Usage for Boosted Cognition** - November, 2018 <br/>
 Read the paper [here!](https://docs.google.com/document/d/1-dOdJpWXGejbuBSNQ2mpFDEA5GCPIqMh4Zcat1TfbwI/edit?usp=sharing_)
 
-+ **From Conquerors to Conquered, The Fall of Tenochtitlan** - November, 2016 <br/>
++ **From Conquerors to Conquered - The Fall of Tenochtitlan** - November, 2016 <br/>
 Read the paper [here!](https://docs.google.com/document/d/1J_Y41tUs3QMhDpYv9d-zX2c_SbkrVKhYp3ollVO-Itg/edit?usp=sharing)
 
 ## Other
