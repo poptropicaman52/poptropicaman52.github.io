@@ -19,10 +19,10 @@ Inspired by the classic Plants vs. Zombies mobile game, choose from your arsenal
 
 ## Data Analysis
 
-+ **NorCal Home Insurance Company Risk Management Summary** - November, 2019
++ **NorCal Home Insurance Company Risk Management Summary** - November, 2019 <br/>
 Conducted multivariate analysis to create predictive analytics to more accurately price NorCal's Homeowners Insurace product. [Read more](https://poptropicaman52.github.io/claims/)
 
-+ **Validating Economic Recessions through Multivariate Regression on SPX Closing Prices** - December, 2019
++ **Validating Economic Recessions through Multivariate Regression on SPX Closing Prices** - December, 2019 <br/>
 Conducted a multivariate regression to produce a model which efficiently predicts the SPX index prices over time using US economic factors. [Read More](https://www.overleaf.com/read/rhfdrkgkzpzx)
 
 ## Chrome Extensions
@@ -31,18 +31,18 @@ Conducted a multivariate regression to produce a model which efficiently predict
 
 ## Research Papers
 
-+ **Adderall Usage for Boosted Cognition** - November, 2018
-[Read the paper here!](https://docs.google.com/document/d/1-dOdJpWXGejbuBSNQ2mpFDEA5GCPIqMh4Zcat1TfbwI/edit?usp=sharing_)
++ **Adderall Usage for Boosted Cognition** - November, 2018 <br/>
+Read the paper [here!](https://docs.google.com/document/d/1-dOdJpWXGejbuBSNQ2mpFDEA5GCPIqMh4Zcat1TfbwI/edit?usp=sharing_)
 
-+ **From Conquerors to Conquered - The Fall of Tenochtitlan** - November, 2016
++ **From Conquerors to Conquered, The Fall of Tenochtitlan** - November, 2016 <br/>
 [Read the paper here!](https://docs.google.com/document/d/1J_Y41tUs3QMhDpYv9d-zX2c_SbkrVKhYp3ollVO-Itg/edit?usp=sharing)
 
 ## Other
 
-+ **Maps** - March, 2019
++ **Maps** - March, 2019 <br/>
 Created a visualization of restaurant ratings using python, machine learning, and the Yelp academic dataset. In this visualization, Berkeley is segmented into regions, where each region is shaded by the predicted rating of the closest restaurant. [Read More](https://poptropicaman52.github.io/maps/)
 
-+ **Scheme Interpreter** - May, 2019
++ **Scheme Interpreter** - May, 2019 <br/>
 The hardest CS61A project I did, began with lots of starter code. [Read More](https://poptropicaman52.github.io/scheme_interpreter/)
 
 
